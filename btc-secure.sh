@@ -15,7 +15,7 @@
 ## View the bitaddress.html file in an ubuntu jar environment and request 1300 bulk addresses and store as bulk.txt
 ## When complete reboot machine without internet so nothing could have been externally stored
 
-## Last updated: 25 June 2013
+## Last updated: 01 July 2013
 ## Update: Included some YES confirmation requirements
 ## Update: Included clean-up code to remove excess directories
 ## Update: Ubuntu apt-get packages reference
